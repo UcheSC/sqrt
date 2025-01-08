@@ -19,6 +19,10 @@ python sqrt.py --n=25
   - `click`
   - `math`
 
+## Branch Protection
+This demo also contains branch protections. Link to branch protection [doc](branch-protection.md)
+
+
 ## Credits
 
 This example was derived from an example originally developed by [Meghan Allen](https://www.cs.ubc.ca/~meghana/).
